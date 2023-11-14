@@ -10,6 +10,5 @@ while n1 != -1:
         n1 = 0
         while n1 == 0:
             n1 = int(input())
-
 cmax = max(cmax, c)
 print(cmax)
