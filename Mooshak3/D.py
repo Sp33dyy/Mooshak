@@ -1,0 +1,1 @@
+print("yes") if (sorted(''.join(filter(str.isalpha,str(input()).upper()))) == sorted(''.join(filter(str.isalpha,str(input()).upper())))) else print("no")
